@@ -1,0 +1,3 @@
+# nepaldometer
+
+Nepal covid tracker.
